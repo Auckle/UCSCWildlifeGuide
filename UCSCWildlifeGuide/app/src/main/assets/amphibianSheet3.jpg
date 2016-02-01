@@ -1,0 +1,333 @@
+ANEFL,BackToes,Five
+ANABO,BackToes,It was a frog or toad
+ANELU,BackToes,Five
+BATAT,BackToes,Four
+BATGA,BackToes,Four
+DICEN,BackToes,Five
+ENSES,BackToes,Five
+LITCA,BackToes,It was a frog or toad
+PSESI,BackToes,It was a frog or toad
+RANAU,BackToes,It was a frog or toad
+RANBO,BackToes,It was a frog or toad
+TARGR,BackToes,Five
+TARTO,BackToes,Five
+ANABO,CommonName,California Toad
+ANEFL,CommonName,Black Salamander
+ANELU,CommonName,Arboreal Salamander
+BATAT,CommonName,California Slender Salamander
+BATGA,CommonName,Gabilan Mountains Slender Salamander
+DICEN,CommonName,California Giant Salamander
+ENSES,CommonName,Yellow-eyed Ensatina
+LITCA,CommonName,American Bullfrog
+PSESI,CommonName,Sierran Treefrog
+RANAU,CommonName,Northern Red-legged Frog
+RANBO,CommonName,Foothill Yellow-legged Frog
+TARGR,CommonName,Rough-skinned Newt
+TARTO,CommonName,California Newt
+ANABO,CostalGrooves,It was a frog or toad
+ANEFL,CostalGrooves,Yes
+ANELU,CostalGrooves,Yes
+BATAT,CostalGrooves,Yes
+BATGA,CostalGrooves,Yes
+DICEN,CostalGrooves,No
+ENSES,CostalGrooves,Yes
+LITCA,CostalGrooves,It was a frog or toad
+PSESI,CostalGrooves,It was a frog or toad
+RANAU,CostalGrooves,It was a frog or toad
+RANBO,CostalGrooves,It was a frog or toad
+TARGR,CostalGrooves,No
+TARTO,CostalGrooves,No
+ANABO,DorsalColor,Brown
+ANABO,DorsalColor,Green
+ANABO,DorsalColor,Tan
+ANEFL,DorsalColor,Black
+ANEFL,DorsalColor,Gray
+ANELU,DorsalColor,Brown
+BATAT,DorsalColor,Black
+BATAT,DorsalColor,Gray
+BATAT,DorsalColor,Brown
+BATGA,DorsalColor,Black
+BATGA,DorsalColor,Gray
+BATGA,DorsalColor,Brown
+DICEN,DorsalColor,Brown
+DICEN,DorsalColor,Orange
+DICEN,DorsalColor,Red
+DICEN,DorsalColor,Tan
+ENSES,DorsalColor,Brown
+LITCA,DorsalColor,Brown
+LITCA,DorsalColor,Green
+PSESI,DorsalColor,Brown
+PSESI,DorsalColor,Green
+RANAU,DorsalColor,Brown
+RANAU,DorsalColor,Red
+RANBO,DorsalColor,Black
+RANBO,DorsalColor,Gray
+RANBO,DorsalColor,Brown
+TARGR,DorsalColor,Black
+TARGR,DorsalColor,Gray
+TARGR,DorsalColor,Brown
+TARGR,DorsalColor,Green
+TARGR,DorsalColor,Tan
+TARTO,DorsalColor,Brown
+TARTO,DorsalColor,Green
+TARTO,DorsalColor,Tan
+ANABO,DorsalLateralFold,No
+ANEFL,DorsalLateralFold,It was a salamander
+ANELU,DorsalLateralFold,It was a salamander
+BATAT,DorsalLateralFold,It was a salamander
+BATGA,DorsalLateralFold,It was a salamander
+DICEN,DorsalLateralFold,It was a salamander
+ENSES,DorsalLateralFold,It was a salamander
+LITCA,DorsalLateralFold,No
+PSESI,DorsalLateralFold,No
+RANAU,DorsalLateralFold,Yes
+RANBO,DorsalLateralFold,Yes but indistinct
+TARGR,DorsalLateralFold,It was a salamander
+TARTO,DorsalLateralFold,It was a salamander
+ANABO,DorsalPattern,Marbled
+ANABO,DorsalPattern,Spotted
+ANEFL,DorsalPattern,Solid
+ANEFL,DorsalPattern,Spotted
+ANELU,DorsalPattern,Solid
+ANELU,DorsalPattern,Spotted
+BATAT,DorsalPattern,Solid
+BATAT,DorsalPattern,Spotted
+BATGA,DorsalPattern,Solid
+BATGA,DorsalPattern,Spotted
+DICEN,DorsalPattern,Marbled
+ENSES,DorsalPattern,Solid
+LITCA,DorsalPattern,Marbled
+LITCA,DorsalPattern,Mottled
+LITCA,DorsalPattern,Spotted
+PSESI,DorsalPattern,Marbled
+PSESI,DorsalPattern,Mottled
+PSESI,DorsalPattern,Solid
+PSESI,DorsalPattern,Spotted
+RANAU,DorsalPattern,Spotted
+RANBO,DorsalPattern,Marbled
+RANBO,DorsalPattern,Mottled
+RANBO,DorsalPattern,Solid
+RANBO,DorsalPattern,Spotted
+TARGR,DorsalPattern,Mottled
+TARTO,DorsalPattern,Solid
+ANABO,DorsalStripe,Yes
+ANEFL,DorsalStripe,No
+ANELU,DorsalStripe,No
+BATAT,DorsalStripe,Yes
+BATAT,DorsalStripe,No
+BATGA,DorsalStripe,Yes
+DICEN,DorsalStripe,No
+ENSES,DorsalStripe,No
+LITCA,DorsalStripe,No
+PSESI,DorsalStripe,No
+RANAU,DorsalStripe,No
+RANBO,DorsalStripe,No
+TARGR,DorsalStripe,No
+TARTO,DorsalStripe,No
+ANABO,DorsalVentralContrastLine,No
+ANABO,DorsalVentralContrastLine,Yes there was as distinct contrast line
+ANEFL,DorsalVentralContrastLine,No there was no contrast line
+ANEFL,DorsalVentralContrastLine,No there was no contrast line
+ANEFL,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+ANELU,DorsalVentralContrastLine,No there was no contrast line
+ANELU,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+BATAT,DorsalVentralContrastLine,No there was no contrast line
+BATGA,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+DICEN,DorsalVentralContrastLine,No there was no contrast line
+ENSES,DorsalVentralContrastLine,Yes there was no contrast line
+ENSES,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+LITCA,DorsalVentralContrastLine,No there was no contrast line
+PSESI,DorsalVentralContrastLine,No there was no contrast line
+PSESI,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+RANAU,DorsalVentralContrastLine,No there was no contrast line
+RANAU,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+RANBO,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+TARGR,DorsalVentralContrastLine,Yes there was as distinct contrast line
+TARTO,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+ANABO,EarDrumFold,No
+ANEFL,EarDrumFold,It was a salamander but there was only an indistinct contrast line
+ANELU,EarDrumFold,It was a salamander
+BATAT,EarDrumFold,It was a salamander
+BATGA,EarDrumFold,It was a salamander
+DICEN,EarDrumFold,It was a salamander
+ENSES,EarDrumFold,It was a salamander
+LITCA,EarDrumFold,Yes
+PSESI,EarDrumFold,No
+RANAU,EarDrumFold,No
+RANBO,EarDrumFold,No
+TARGR,EarDrumFold,It was a salamander
+TARTO,EarDrumFold,It was a salamander
+ANABO,EyeColor,Gold eyes
+ANEFL,EyeColor,Black eyes
+ANELU,EyeColor,Black eyes
+BATAT,EyeColor,Black eyes
+BATGA,EyeColor,Black eyes
+DICEN,EyeColor,Black eyes
+ENSES,EyeColor,Black eyes with yellow spots
+LITCA,EyeColor,Gold eyes
+PSESI,EyeColor,Gold eyes inside a black stripe of skin
+RANAU,EyeColor,Gold eyes
+RANBO,EyeColor,Gold eyes
+TARGR,EyeColor,Black eyes with dark lower eye lids
+TARTO,EyeColor,Black eyes with light lower eye lids
+ANABO,Habit,Frog or toad
+ANEFL,Habit,Salamander
+ANELU,Habit,Salamander
+BATAT,Habit,Salamander
+BATGA,Habit,Salamander
+DICEN,Habit,Salamander
+ENSES,Habit,Salamander
+LITCA,Habit,Frog or toad
+PSESI,Habit,Frog or toad
+RANAU,Habit,Frog or toad
+RANBO,Habit,Frog or toad
+TARGR,Habit,Salamander
+TARTO,Habit,Salamander
+ANABO,CommonName,California Toad
+ANEFL,CommonName,Black Salamander
+ANELU,CommonName,Arboreal Salamander
+BATAT,CommonName,California Slender Salamander
+BATGA,CommonName,Gabilan Mountains Slender Salamander
+DICEN,CommonName,California Giant Salamander
+ENSES,CommonName,Yellow-eyed Ensatina
+LITCA,CommonName,American Bullfrog
+PSESI,CommonName,Sierran Treefrog
+RANAU,CommonName,Northern Red-legged Frog
+RANBO,CommonName,Foothill Yellow-legged Frog
+TARGR,CommonName,Rough-skinned Newt
+TARTO,CommonName,California Newt
+ANABO,LegPattern,Banded
+ANABO,LegPattern,Marbled
+ANABO,LegPattern,Mottled
+ANEFL,LegPattern,Solid
+ANELU,LegPattern,Solid
+BATAT,LegPattern,Solid
+BATAT,LegPattern,Spotted
+BATGA,LegPattern,Solid
+BATGA,LegPattern,Spotted
+DICEN,LegPattern,Marbled
+ENSES,LegPattern,Solid
+LITCA,LegPattern,Banded
+LITCA,LegPattern,Marbled
+LITCA,LegPattern,Mottled
+LITCA,LegPattern,Solid
+PSESI,LegPattern,Marbled
+PSESI,LegPattern,Mottled
+RANAU,LegPattern,Banded
+RANBO,LegPattern,Banded
+RANBO,LegPattern,Mottled
+TARGR,LegPattern,Solid
+TARGR,LegPattern,Solid
+TARTO,LegPattern,Solid
+TARTO,LegPattern,Solid
+ANABO,LimbSize,No
+ANEFL,LimbSize,No it had proportional limbs
+ANELU,LimbSize,No it had proportional limbs
+BATAT,LimbSize,Yes it had proportional limbs
+BATGA,LimbSize,Yes it had tiny limbs
+DICEN,LimbSize,No it had proportional limbs
+ENSES,LimbSize,No it had proportional limbs
+LITCA,LimbSize,No it had proportional limbs
+PSESI,LimbSize,No it had proportional limbs
+RANAU,LimbSize,No it had proportional limbs
+RANBO,LimbSize,No it had proportional limbs
+TARGR,LimbSize,No it had proportional limbs
+TARTO,LimbSize,No it had proportional limbs
+ANABO,ParotoidGland,Yes
+ANEFL,ParotoidGland,It was a salamander it had tiny limbs
+ANELU,ParotoidGland,It was a salamander
+BATAT,ParotoidGland,It was a salamander
+BATGA,ParotoidGland,It was a salamander
+DICEN,ParotoidGland,It was a salamander
+ENSES,ParotoidGland,It was a salamander
+LITCA,ParotoidGland,No
+PSESI,ParotoidGland,No
+RANAU,ParotoidGland,No
+RANBO,ParotoidGland,No
+TARGR,ParotoidGland,It was a salamander
+TARTO,ParotoidGland,It was a salamander
+ANABO,SkinTexture,Rough
+ANEFL,SkinTexture,Smooth
+ANELU,SkinTexture,Smooth
+BATAT,SkinTexture,Smooth
+BATGA,SkinTexture,Smooth
+DICEN,SkinTexture,Smooth
+ENSES,SkinTexture,Smooth
+LITCA,SkinTexture,Rough
+LITCA,SkinTexture,Smooth
+PSESI,SkinTexture,Smooth
+RANAU,SkinTexture,Rough
+RANAU,SkinTexture,Smooth
+RANBO,SkinTexture,Smooth
+TARGR,SkinTexture,Rough
+TARGR,SkinTexture,Smooth
+TARTO,SkinTexture,Rough
+TARTO,SkinTexture,Smooth
+ANABO,Summary,ANABO.jpg
+ANEFL,Summary,ANEFL.jpg
+ANELU,Summary,ANELU.jpg
+BATAT,Summary,BATAT.jpg
+BATGA,Summary,BATGA.jpg
+DICEN,Summary,DICEN.jpg
+ENSES,Summary,ENSES.jpg
+LITCA,Summary,LITCA.jpg
+PSESI,Summary,PSESI.jpg
+RANAU,Summary,RANAU.jpg
+RANBO,Summary,RANBO.jpg
+TARGR,Summary,TARGR.jpg
+TARTO,Summary,TARTO.jpg
+ANABO,Tail,No
+ANEFL,Tail,Yes
+ANELU,Tail,Yes
+BATAT,Tail,Yes
+BATGA,Tail,Yes
+DICEN,Tail,Yes
+ENSES,Tail,Yes
+LITCA,Tail,No
+LITCA,Tail,No
+PSESI,Tail,No
+RANAU,Tail,No
+RANBO,Tail,No
+TARGR,Tail,Yes
+TARTO,Tail,Yes
+ANABO,ToePads,No
+ANEFL,ToePads,It was a salamander
+ANELU,ToePads,It was a salamander
+BATAT,ToePads,It was a salamander
+BATGA,ToePads,It was a salamander
+DICEN,ToePads,It was a salamander
+ENSES,ToePads,It was a salamander
+LITCA,ToePads,No
+PSESI,ToePads,Yes
+RANAU,ToePads,No
+RANBO,ToePads,No
+TARGR,ToePads,It was a salamander
+TARTO,ToePads,It was a salamander
+ANABO,VentralColor,White
+ANEFL,VentralColor,Black
+ANEFL,VentralColor,Gray
+ANELU,VentralColor,White
+BATAT,VentralColor,Black
+BATAT,VentralColor,Gray
+BATAT,VentralColor,Brown
+BATGA,VentralColor,Black
+BATGA,VentralColor,Gray
+BATGA,VentralColor,Brown
+DICEN,VentralColor,Brown
+DICEN,VentralColor,Orange
+DICEN,VentralColor,Orange
+DICEN,VentralColor,Red
+ENSES,VentralColor,Orange
+PSESI,VentralColor,White
+PSESI,VentralColor,Red
+RANAU,VentralColor,White
+RANAU,VentralColor,Red
+RANBO,VentralColor,White
+RANBO,VentralColor,Yellow
+LITCA,VentralColor,White
+TARGR,VentralColor,Orange
+TARGR,VentralColor,Red
+TARGR,VentralColor,Yellow
+TARTO,VentralColor,Orange
+TARTO,VentralColor,Red
+TARTO,VentralColor,Yellow

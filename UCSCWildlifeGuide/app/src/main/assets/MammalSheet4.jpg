@@ -1,0 +1,703 @@
+ODOHE,Summary,ODOHE.jpg
+SYLBA,Summary,SYLBA.jpg
+LYNRU,Summary,LYNRU.jpg
+PUMCO,Summary,PUMCO.jpg
+CANLA,Summary,CANLA.jpg
+CHACA,Summary,CHACA.jpg
+NEOFU,Summary,NEOFU.jpg
+PERCA,Summary,PERCA.jpg
+THOBO,Summary,THOBO.jpg
+SPEBE,Summary,SPEBE.jpg
+SOROR,Summary,SOROR.jpg
+PERBO,Summary,PERBO.jpg
+PERMA,Summary,PERMA.jpg
+DIDVI,Summary,DIDVI.jpg
+SORVA,Summary,SORVA.jpg
+SORTR,Summary,SORTR.jpg
+SCALA,Summary,SCALA.jpg
+PERTR,Summary,PERTR.jpg
+MICCA,Summary,MICCA.jpg
+RATNO,Summary,RATNO.jpg
+MUSMU,Summary,MUSMU.jpg
+VULVU,Summary,VULVU.jpg
+UROCI,Summary,UROCI.jpg
+PROLO,Summary,PROLO.jpg
+MUSFR,Summary,MUSFR.jpg
+SUSSC,Summary,SUSSC.jpg
+TAXTA,Summary,TAXTA.jpg
+MEPME,Summary,MEPME.jpg
+BASAS,Summary,BASAS.jpg
+SPIGR,Summary,SPIGR.jpg
+NEUGI,Summary,NEUGI.jpg
+RATRA,Summary,RATRA.jpg
+TAMME,Summary,TAMME.jpg
+SCICA,Summary,SCICA.jpg
+SCIGR,Summary,SCIGR.jpg
+SCINI,Summary,SCINI.jpg
+SYLBA,CommonName,Brush Rabbit
+LYNRU,CommonName,Bobcat
+PUMCO,CommonName,Mountain Lion
+CANLA,CommonName,Coyote
+UROCI,CommonName,Common Gray Fox
+VULVU,CommonName,Red Fox
+BASAS,CommonName,Ringtail Cat
+PROLO,CommonName,Common Raccoon
+MEPME,CommonName,Striped Skunk
+MUSFR,CommonName,Long-tailed Weasel
+SPIGR,CommonName,Spotted Skunk
+TAXTA,CommonName,American Badger
+NEUGI,CommonName,Shrew-Mole
+SCALA,CommonName,Broad-footed Mole
+SOROR,CommonName,Ornate Shrew
+SORTR,CommonName,Trowbridge Shrew
+SORVA,CommonName,Vagrant Shrew
+ODOHE,CommonName,Mule Deer
+SUSSC,CommonName,Wild Pig
+CHACA,CommonName,California Pocket Mouse
+MICCA,CommonName,California Vole
+MUSMU,CommonName,House Mouse
+NEOFU,CommonName,Dusky-footed Woodrat
+PERBO,CommonName,Brush Mouse
+PERCA,CommonName,California Mouse
+PERMA,CommonName,Deer Mouse
+PERTR,CommonName,Pinyon Mouse
+RATNO,CommonName,Norway Rat
+RATRA,CommonName,Black Rat
+THOBO,CommonName,Botta's Pocket Gopher
+TAMME,CommonName,Merriam's Chipmunk
+SCICA,CommonName,Eastern Gray Squirrel
+SCIGR,CommonName,Western Gray Squirrel
+SCINI,CommonName,Fox Squirrel
+SPEBE,CommonName,California Ground Squirrel
+DIDVI,CommonName,Virginia Opossum
+ODOHE,BackToes,2
+SUSSC,BackToes,2
+ODOHE,FrontToes,2
+SUSSC,FrontToes,2
+CANLA,BackToes,4
+LYNRU,BackToes,4
+MUSFR,BackToes,4
+PUMCO,BackToes,4
+SYLBA,BackToes,4
+UROCI,BackToes,4
+VULVU,BackToes,4
+CANLA,FrontToes,4
+CHACA,FrontToes,4
+LYNRU,FrontToes,4
+MICCA,FrontToes,4
+MUSFR,FrontToes,4
+MUSMU,FrontToes,4
+NEOFU,FrontToes,4
+PERBO,FrontToes,4
+PERCA,FrontToes,4
+PERMA,FrontToes,4
+PERTR,FrontToes,4
+PUMCO,FrontToes,4
+RATNO,FrontToes,4
+RATRA,FrontToes,4
+SCICA,FrontToes,4
+SCIGR,FrontToes,4
+SCINI,FrontToes,4
+SPEBE,FrontToes,4
+SYLBA,FrontToes,4
+TAMME,FrontToes,4
+THOBO,FrontToes,4
+UROCI,FrontToes,4
+VULVU,FrontToes,4
+BASAS,BackToes,5
+CHACA,BackToes,5
+DIDVI,BackToes,5
+MEPME,BackToes,5
+MICCA,BackToes,5
+MUSMU,BackToes,5
+NEOFU,BackToes,5
+NEUGI,BackToes,5
+PERBO,BackToes,5
+PERCA,BackToes,5
+PERMA,BackToes,5
+PERTR,BackToes,5
+PROLO,BackToes,5
+RATNO,BackToes,5
+RATRA,BackToes,5
+SCALA,BackToes,5
+SCICA,BackToes,5
+SCIGR,BackToes,5
+SCINI,BackToes,5
+SOROR,BackToes,5
+SORTR,BackToes,5
+SORVA,BackToes,5
+SPEBE,BackToes,5
+SPIGR,BackToes,5
+TAMME,BackToes,5
+TAXTA,BackToes,5
+THOBO,BackToes,5
+BASAS,FrontToes,5
+DIDVI,FrontToes,5
+MEPME,FrontToes,5
+NEUGI,FrontToes,5
+PROLO,FrontToes,5
+SCALA,FrontToes,5
+SOROR,FrontToes,5
+SORTR,FrontToes,5
+SORVA,FrontToes,5
+SPIGR,FrontToes,5
+TAXTA,FrontToes,5
+BASAS,TailLength,About the same length as body
+CANLA,TailLength,About the same length as body
+CHACA,TailLength,About the same length as body
+MEPME,TailLength,About the same length as body
+MUSFR,TailLength,About the same length as body
+MUSMU,TailLength,About the same length as body
+NEOFU,TailLength,About the same length as body
+NEUGI,TailLength,About the same length as body
+PERBO,TailLength,About the same length as body
+PERMA,TailLength,About the same length as body
+PERTR,TailLength,About the same length as body
+PUMCO,TailLength,About the same length as body
+RATNO,TailLength,About the same length as body
+RATRA,TailLength,About the same length as body
+SCICA,TailLength,About the same length as body
+SCIGR,TailLength,About the same length as body
+SCINI,TailLength,About the same length as body
+SOROR,TailLength,About the same length as body
+SORTR,TailLength,About the same length as body
+SORVA,TailLength,About the same length as body
+SPIGR,TailLength,About the same length as body
+TAMME,TailLength,About the same length as body
+UROCI,TailLength,About the same length as body
+VULVU,TailLength,About the same length as body
+BASAS,Size,About the same size as a house cat
+DIDVI,Size,About the same size as a house cat
+MEPME,Size,About the same size as a house cat
+PROLO,Size,About the same size as a house cat
+SYLBA,Size,About the same size as a house cat
+TAXTA,Size,About the same size as a house cat
+UROCI,Size,About the same size as a house cat
+VULVU,Size,About the same size as a house cat
+LYNRU,DorsalColor,Black
+MEPME,DorsalColor,Black
+MICCA,DorsalColor,Black
+NEUGI,DorsalColor,Black
+PERCA,DorsalColor,Black
+PROLO,DorsalColor,Black
+SCALA,DorsalColor,Black
+SCICA,DorsalColor,Black
+SORVA,DorsalColor,Black
+SPIGR,DorsalColor,Black
+SUSSC,DorsalColor,Black
+BASAS,TailColor,Black
+MEPME,TailColor,Black
+MICCA,TailColor,Black
+NEUGI,TailColor,Black
+ODOHE,TailColor,Black
+PROLO,TailColor,Black
+SCALA,TailColor,Black
+SCICA,TailColor,Black
+SORVA,TailColor,Black
+SPIGR,TailColor,Black
+SUSSC,TailColor,Black
+VULVU,TailColor,Black
+LYNRU,VentralColor,Black
+MEPME,VentralColor,Black
+NEUGI,VentralColor,Black
+SCALA,VentralColor,Black
+SORVA,VentralColor,Black
+SPIGR,VentralColor,Black
+SUSSC,VentralColor,Black
+VULVU,VentralColor,Black
+CANLA,TailPattern,Black tip
+LYNRU,TailPattern,Black tip
+MUSFR,TailPattern,Black tip
+ODOHE,TailPattern,Black tip
+PUMCO,TailPattern,Black tip
+SOROR,TailPattern,Black tip
+UROCI,TailPattern,Black tip
+BASAS,DorsalPattern,Blotchy
+DIDVI,DorsalPattern,Blotchy
+LYNRU,DorsalPattern,Blotchy
+PROLO,DorsalPattern,Blotchy
+SCINI,DorsalPattern,Blotchy
+SUSSC,DorsalPattern,Blotchy
+TAXTA,DorsalPattern,Blotchy
+VULVU,DorsalPattern,Blotchy
+SUSSC,TailPattern,Blotchy
+TAXTA,TailPattern,Blotchy
+BASAS,DorsalColor,Brown
+CANLA,DorsalColor,Brown
+CHACA,DorsalColor,Brown
+LYNRU,DorsalColor,Brown
+MICCA,DorsalColor,Brown
+MUSFR,DorsalColor,Brown
+MUSMU,DorsalColor,Brown
+NEOFU,DorsalColor,Brown
+ODOHE,DorsalColor,Brown
+PERBO,DorsalColor,Brown
+PERCA,DorsalColor,Brown
+PERMA,DorsalColor,Brown
+PERTR,DorsalColor,Brown
+PUMCO,DorsalColor,Brown
+RATNO,DorsalColor,Brown
+RATRA,DorsalColor,Brown
+SCALA,DorsalColor,Brown
+SCICA,DorsalColor,Brown
+SCINI,DorsalColor,Brown
+SOROR,DorsalColor,Brown
+SORTR,DorsalColor,Brown
+SORVA,DorsalColor,Brown
+SPEBE,DorsalColor,Brown
+SUSSC,DorsalColor,Brown
+SYLBA,DorsalColor,Brown
+TAMME,DorsalColor,Brown
+TAXTA,DorsalColor,Brown
+THOBO,DorsalColor,Brown
+UROCI,DorsalColor,Brown
+VULVU,DorsalColor,Brown
+CHACA,TailColor,Brown
+LYNRU,TailColor,Brown
+MICCA,TailColor,Brown
+MUSFR,TailColor,Brown
+MUSMU,TailColor,Brown
+NEOFU,TailColor,Brown
+PERBO,TailColor,Brown
+PERCA,TailColor,Brown
+PERMA,TailColor,Brown
+PERTR,TailColor,Brown
+PUMCO,TailColor,Brown
+RATNO,TailColor,Brown
+RATRA,TailColor,Brown
+SCALA,TailColor,Brown
+SCICA,TailColor,Brown
+SCINI,TailColor,Brown
+SOROR,TailColor,Brown
+SORTR,TailColor,Brown
+SORVA,TailColor,Brown
+SPEBE,TailColor,Brown
+SUSSC,TailColor,Brown
+SYLBA,TailColor,Brown
+TAMME,TailColor,Brown
+MUSMU,VentralColor,Brown
+ODOHE,VentralColor,Brown
+PROLO,VentralColor,Brown
+SCALA,VentralColor,Brown
+SORTR,VentralColor,Brown
+SORVA,VentralColor,Brown
+SPEBE,VentralColor,Brown
+SUSSC,VentralColor,Brown
+TAXTA,VentralColor,Brown
+TAXTA,VentralColor,Yellow
+BASAS,Habit,Carnivore
+CANLA,Habit,Carnivore
+LYNRU,Habit,Carnivore
+MEPME,Habit,Carnivore
+MUSFR,Habit,Carnivore
+PROLO,Habit,Carnivore
+PUMCO,Habit,Carnivore
+SPIGR,Habit,Carnivore
+TAXTA,Habit,Carnivore
+UROCI,Habit,Carnivore
+VULVU,Habit,Carnivore
+CHACA,VentralColor,Cream
+MICCA,VentralColor,Cream
+MUSFR,VentralColor,Cream
+NEOFU,VentralColor,Cream
+PERBO,VentralColor,Cream
+PERCA,VentralColor,Cream
+PERMA,VentralColor,Cream
+PERTR,VentralColor,Cream
+RATRA,VentralColor,Cream
+ODOHE,Habit,Artiodactyla (Hoofed animal)
+SUSSC,Habit,Artiodactyla (Hoofed animal)
+SPIGR,DorsalPattern,Four broken stripes on back
+BASAS,DorsalColor,Gray
+CANLA,DorsalColor,Gray
+CHACA,DorsalColor,Gray
+DIDVI,DorsalColor,Gray
+LYNRU,DorsalColor,Gray
+MICCA,DorsalColor,Gray
+MUSMU,DorsalColor,Gray
+NEOFU,DorsalColor,Gray
+NEUGI,DorsalColor,Gray
+ODOHE,DorsalColor,Gray
+PERBO,DorsalColor,Gray
+PERCA,DorsalColor,Gray
+PERMA,DorsalColor,Gray
+PERTR,DorsalColor,Gray
+PROLO,DorsalColor,Gray
+RATNO,DorsalColor,Gray
+RATRA,DorsalColor,Gray
+SCALA,DorsalColor,Gray
+SCICA,DorsalColor,Gray
+SCIGR,DorsalColor,Gray
+SCINI,DorsalColor,Gray
+SOROR,DorsalColor,Gray
+SORTR,DorsalColor,Gray
+SORVA,DorsalColor,Gray
+SUSSC,DorsalColor,Gray
+SYLBA,DorsalColor,Gray
+TAMME,DorsalColor,Gray
+TAXTA,DorsalColor,Gray
+THOBO,DorsalColor,Gray
+UROCI,DorsalColor,Gray
+VULVU,DorsalColor,Gray
+CANLA,TailColor,Gray
+DIDVI,TailColor,Gray
+LYNRU,TailColor,Gray
+MUSMU,TailColor,Gray
+NEOFU,TailColor,Gray
+NEUGI,TailColor,Gray
+PERBO,TailColor,Gray
+PERCA,TailColor,Gray
+PERMA,TailColor,Gray
+PERTR,TailColor,Gray
+PROLO,TailColor,Gray
+PUMCO,TailColor,Gray
+RATNO,TailColor,Gray
+RATRA,TailColor,Gray
+SCALA,TailColor,Gray
+SCICA,TailColor,Gray
+SCIGR,TailColor,Gray
+SCINI,TailColor,Gray
+SOROR,TailColor,Gray
+SORTR,TailColor,Gray
+SORVA,TailColor,Gray
+SPEBE,TailColor,Gray
+SUSSC,TailColor,Gray
+SYLBA,TailColor,Gray
+TAXTA,TailColor,Gray
+THOBO,TailColor,Gray
+UROCI,TailColor,Gray
+VULVU,TailColor,Gray
+MUSMU,VentralColor,Gray
+NEUGI,VentralColor,Gray
+ODOHE,VentralColor,Gray
+RATNO,VentralColor,Gray
+RATRA,VentralColor,Gray
+SCALA,VentralColor,Gray
+SORTR,VentralColor,Gray
+SORVA,VentralColor,Gray
+SPEBE,VentralColor,Gray
+SUSSC,VentralColor,Gray
+LYNRU,VentralColor,Gray 
+PROLO,VentralColor,Gray 
+NEUGI,Habit,Insectivore (Easily mistaken for a rodent)
+SCALA,Habit,Insectivore (Easily mistaken for a rodent)
+SOROR,Habit,Insectivore (Easily mistaken for a rodent)
+SORTR,Habit,Insectivore (Easily mistaken for a rodent)
+SORVA,Habit,Insectivore (Easily mistaken for a rodent)
+SYLBA,Habit,Lagomorph (Rabbit)
+CANLA,Size,Larger than a house cat
+LYNRU,Size,Larger than a house cat
+ODOHE,Size,Larger than a house cat
+PROLO,Size,Larger than a house cat
+PUMCO,Size,Larger than a house cat
+SUSSC,Size,Larger than a house cat
+TAXTA,Size,Larger than a house cat
+UROCI,Size,Larger than a house cat
+VULVU,Size,Larger than a house cat
+CHACA,Size,About the size of a mouse
+MUSMU,Size,About the size of a mouse
+NEUGI,Size,About the size of a mouse
+PERBO,Size,About the size of a mouse
+PERCA,Size,About the size of a mouse
+PERMA,Size,About the size of a mouse
+PERTR,Size,About the size of a mouse
+SOROR,Size,About the size of a mouse
+SORTR,Size,About the size of a mouse
+SORVA,Size,About the size of a mouse
+SOROR,VentralColor,Light brown
+BASAS,VentralColor,Light gray
+CANLA,VentralColor,Light gray
+DIDVI,VentralColor,Light gray
+MICCA,VentralColor,Light gray
+MUSMU,VentralColor,Light gray
+NEOFU,VentralColor,Light gray
+RATNO,VentralColor,Light gray
+RATRA,VentralColor,Light gray
+SCICA,VentralColor,Light gray
+SCIGR,VentralColor,Light gray
+SOROR,VentralColor,Light gray
+SYLBA,VentralColor,Light gray
+TAMME,VentralColor,Light gray
+TAXTA,VentralColor,Light gray
+THOBO,VentralColor,Light gray
+CANLA,VentralColor,Light tan
+PUMCO,VentralColor,Light tan
+BASAS,TailLength,Longer than body
+CHACA,TailLength,Longer than body
+MUSMU,TailLength,Longer than body
+NEOFU,TailLength,Longer than body
+PERBO,TailLength,Longer than body
+PERCA,TailLength,Longer than body
+PERMA,TailLength,Longer than body
+PERTR,TailLength,Longer than body
+PUMCO,TailLength,Longer than body
+RATRA,TailLength,Longer than body
+SORTR,TailLength,Longer than body
+SORVA,TailLength,Longer than body
+TAMME,DorsalPattern,Many stripes
+DIDVI,Habit,Marsupial
+DIDVI,TailType,No it did not have fur
+MICCA,TailType,No it did not have fur
+MUSMU,TailType,No it did not have fur
+NEOFU,TailType,No it did not have fur
+PERCA,TailType,No it did not have fur
+PERMA,TailType,No it did not have fur
+RATNO,TailType,No it did not have fur
+RATRA,TailType,No it did not have fur
+SOROR,TailType,No it did not have fur
+SORTR,TailType,No it did not have fur
+SORVA,TailType,No it did not have fur
+SUSSC,TailType,No it did not have fur
+THOBO,TailType,No it did not have fur
+MEPME,DorsalPattern,One solid stripe on back
+TAXTA,DorsalPattern,One solid stripe on back
+UROCI,DorsalPattern,One solid stripe on back
+SCINI,VentralColor,Orange
+SPEBE,VentralColor,Orange
+NEOFU,TailPattern,Paler below
+PERBO,TailPattern,Paler below
+PERMA,TailPattern,Paler below
+PERTR,TailPattern,Paler below
+RATNO,TailPattern,Paler below
+SORVA,TailPattern,Paler below
+DIDVI,TailColor,Pink
+MUSMU,TailColor,Pink
+THOBO,TailColor,Pink
+LYNRU,DorsalColor,Red
+PERMA,DorsalColor,Red
+PUMCO,DorsalColor,Red
+UROCI,DorsalColor,Red
+VULVU,DorsalColor,Red
+PERMA,TailColor,Red
+PUMCO,TailColor,Red
+SCINI,TailColor,Red
+TAMME,TailColor,Red
+UROCI,TailColor,Red
+VULVU,TailColor,Red
+SCINI,VentralColor,Red
+SORVA,VentralColor,Red
+VULVU,VentralColor,Red
+SCINI,TailPattern,Red tipped fur
+BASAS,TailPattern,Ringed
+PROLO,TailPattern,Ringed
+CHACA,Habit,Rodent
+MICCA,Habit,Rodent
+MUSMU,Habit,Rodent
+NEOFU,Habit,Rodent
+PERBO,Habit,Rodent
+PERCA,Habit,Rodent
+PERMA,Habit,Rodent
+PERTR,Habit,Rodent
+RATNO,Habit,Rodent
+RATRA,Habit,Rodent
+SCICA,Habit,Rodent
+SCIGR,Habit,Rodent
+SCINI,Habit,Rodent
+SPEBE,Habit,Rodent
+TAMME,Habit,Rodent
+THOBO,Habit,Rodent
+CANLA,TailLength,Shorter than body
+DIDVI,TailLength,Shorter than body
+LYNRU,TailLength,Shorter than body
+MEPME,TailLength,Shorter than body
+MICCA,TailLength,Shorter than body
+MUSFR,TailLength,Shorter than body
+NEUGI,TailLength,Shorter than body
+ODOHE,TailLength,Shorter than body
+PROLO,TailLength,Shorter than body
+SCALA,TailLength,Shorter than body
+SCICA,TailLength,Shorter than body
+SPEBE,TailLength,Shorter than body
+SPIGR,TailLength,Shorter than body
+SUSSC,TailLength,Shorter than body
+SYLBA,TailLength,Shorter than body
+TAXTA,TailLength,Shorter than body
+THOBO,TailLength,Shorter than body
+UROCI,TailLength,Shorter than body
+VULVU,TailLength,Shorter than body
+UROCI,TailPattern,Single black stripe
+VULVU,TailPattern,Single black stripe
+MEPME,TailPattern,Single black stripe
+NEOFU,Size,Smaller than a house cat
+BASAS,Size,Smaller than a house cat
+CHACA,Size,Smaller than a house cat
+DIDVI,Size,Smaller than a house cat
+MEPME,Size,Smaller than a house cat
+MICCA,Size,Smaller than a house cat
+MUSFR,Size,Smaller than a house cat
+MUSMU,Size,Smaller than a house cat
+NEUGI,Size,Smaller than a house cat
+PERBO,Size,Smaller than a house cat
+PERCA,Size,Smaller than a house cat
+PERMA,Size,Smaller than a house cat
+PERTR,Size,Smaller than a house cat
+RATNO,Size,Smaller than a house cat
+RATRA,Size,Smaller than a house cat
+SCALA,Size,Smaller than a house cat
+SCICA,Size,Smaller than a house cat
+SCIGR,Size,Smaller than a house cat
+SCINI,Size,Smaller than a house cat
+SOROR,Size,Smaller than a house cat
+SORTR,Size,Smaller than a house cat
+SORVA,Size,Smaller than a house cat
+SPEBE,Size,Smaller than a house cat
+SPIGR,Size,Smaller than a house cat
+SYLBA,Size,Smaller than a house cat
+TAMME,Size,Smaller than a house cat
+THOBO,Size,Smaller than a house cat
+BASAS,DorsalPattern,Solid or no pattern
+CANLA,DorsalPattern,Solid or no pattern
+CHACA,DorsalPattern,Solid or no pattern
+DIDVI,DorsalPattern,Solid or no pattern
+LYNRU,DorsalPattern,Solid or no pattern
+MEPME,DorsalPattern,Solid or no pattern
+MICCA,DorsalPattern,Solid or no pattern
+MUSFR,DorsalPattern,Solid or no pattern
+MUSMU,DorsalPattern,Solid or no pattern
+NEOFU,DorsalPattern,Solid or no pattern
+NEUGI,DorsalPattern,Solid or no pattern
+ODOHE,DorsalPattern,Solid or no pattern
+PERBO,DorsalPattern,Solid or no pattern
+PERCA,DorsalPattern,Solid or no pattern
+PERMA,DorsalPattern,Solid or no pattern
+PERTR,DorsalPattern,Solid or no pattern
+PROLO,DorsalPattern,Solid or no pattern
+PUMCO,DorsalPattern,Solid or no pattern
+RATNO,DorsalPattern,Solid or no pattern
+RATRA,DorsalPattern,Solid or no pattern
+SCALA,DorsalPattern,Solid or no pattern
+SCICA,DorsalPattern,Solid or no pattern
+SCIGR,DorsalPattern,Solid or no pattern
+SCINI,DorsalPattern,Solid or no pattern
+SOROR,DorsalPattern,Solid or no pattern
+SORTR,DorsalPattern,Solid or no pattern
+SORVA,DorsalPattern,Solid or no pattern
+SPEBE,DorsalPattern,Solid or no pattern
+SUSSC,DorsalPattern,Solid or no pattern
+SYLBA,DorsalPattern,Solid or no pattern
+TAXTA,DorsalPattern,Solid or no pattern
+THOBO,DorsalPattern,Solid or no pattern
+UROCI,DorsalPattern,Solid or no pattern
+VULVU,DorsalPattern,Solid or no pattern
+CANLA,TailPattern,Solid or no pattern
+DIDVI,TailPattern,Solid or no pattern
+MEPME,TailPattern,Solid or no pattern
+MUSMU,TailPattern,Solid or no pattern
+NEUGI,TailPattern,Solid or no pattern
+ODOHE,TailPattern,Solid or no pattern
+PERCA,TailPattern,Solid or no pattern
+PUMCO,TailPattern,Solid or no pattern
+RATRA,TailPattern,Solid or no pattern
+SCALA,TailPattern,Solid or no pattern
+SCIGR,TailPattern,Solid or no pattern
+SCINI,TailPattern,Solid or no pattern
+SOROR,TailPattern,Solid or no pattern
+SPIGR,TailPattern,Solid or no pattern
+SUSSC,TailPattern,Solid or no pattern
+SYLBA,TailPattern,Solid or no pattern
+TAXTA,TailPattern,Solid or no pattern
+THOBO,TailPattern,Solid or no pattern
+VULVU,TailPattern,Solid or no pattern
+LYNRU,DorsalPattern,Spotted
+SPEBE,DorsalPattern,Spotted
+SPIGR,DorsalPattern,Spotted
+SUSSC,DorsalPattern,Spotted
+SPEBE,TailPattern,Spotted
+CHACA,DorsalPattern,Stripes along sides
+BASAS,DorsalColor,Tan
+CANLA,DorsalColor,Tan
+MUSFR,DorsalColor,Tan
+NEOFU,DorsalColor,Tan
+PERBO,DorsalColor,Tan
+PERCA,DorsalColor,Tan
+PERMA,DorsalColor,Tan
+PUMCO,DorsalColor,Tan
+TAXTA,DorsalColor,Tan
+THOBO,DorsalColor,Tan
+CANLA,TailColor,Tan
+MUSFR,TailColor,Tan
+NEOFU,TailColor,Tan
+PERBO,TailColor,Tan
+PERMA,TailColor,Tan
+PUMCO,TailColor,Tan
+TAXTA,TailColor,Tan
+BASAS,VentralColor,Tan
+DIDVI,VentralColor,Tan
+TAMME,VentralColor,Tan
+TAXTA,VentralColor,Tan
+THOBO,VentralColor,Tan
+UROCI,VentralColor,Tan
+CHACA,TailPattern,Tufted tip
+PERBO,TailPattern,Tufted tip
+PERTR,TailPattern,Tufted tip
+MEPME,DorsalPattern,Two broken stripes on back
+MEPME,DorsalPattern,Two solid stripes on back
+DIDVI,DorsalColor,White
+MEPME,DorsalColor,White
+SPIGR,DorsalColor,White
+SUSSC,DorsalColor,White
+BASAS,TailColor,White
+CHACA,TailColor,White
+MEPME,TailColor,White
+MICCA,TailColor,White
+SPIGR,TailColor,White
+SUSSC,TailColor,White
+CANLA,VentralColor,White
+DIDVI,VentralColor,White
+LYNRU,VentralColor,White
+PERBO,VentralColor,White
+PERCA,VentralColor,White
+PERMA,VentralColor,White
+PROLO,VentralColor,White
+SCIGR,VentralColor,White
+SUSSC,VentralColor,White
+VULVU,VentralColor,White
+PERTR,VentralColor,White 
+PUMCO,VentralColor,White 
+CHACA,TailPattern,White below
+MICCA,TailPattern,White below
+PERBO,TailPattern,White below
+PERMA,TailPattern,White below
+PERTR,TailPattern,White below
+SORTR,TailPattern,White below
+MEPME,TailPattern,White tip
+SPIGR,TailPattern,White tip
+VULVU,TailPattern,White tip
+SCICA,TailPattern,White tipped fur
+SCIGR,TailPattern,White tipped fur
+TAMME,TailPattern,White tipped fur
+PERCA,DorsalColor,Yellow
+CHACA,VentralColor,Yellow
+MUSFR,VentralColor,Yellow
+NEOFU,VentralColor,Yellow
+PERBO,VentralColor,Yellow
+PERCA,VentralColor,Yellow
+PERMA,VentralColor,Yellow
+PERTR,VentralColor,Yellow
+BASAS,TailType,Yes it had fur
+CANLA,TailType,Yes it had fur
+CHACA,TailType,Yes it had fur
+LYNRU,TailType,Yes it had fur
+MEPME,TailType,Yes it had fur
+MUSFR,TailType,Yes it had fur
+MUSMU,TailType,Yes it had fur
+NEOFU,TailType,Yes it had fur
+NEUGI,TailType,Yes it had fur
+ODOHE,TailType,Yes it had fur
+PERBO,TailType,Yes it had fur
+PERMA,TailType,Yes it had fur
+PERTR,TailType,Yes it had fur
+PROLO,TailType,Yes it had fur
+PUMCO,TailType,Yes it had fur
+SCALA,TailType,Yes it had fur
+SCICA,TailType,Yes it had fur
+SCIGR,TailType,Yes it had fur
+SCINI,TailType,Yes it had fur
+SPEBE,TailType,Yes it had fur
+SPIGR,TailType,Yes it had fur
+SUSSC,TailType,Yes it had fur
+SYLBA,TailType,Yes it had fur
+TAMME,TailType,Yes it had fur
+TAXTA,TailType,Yes it had fur
+UROCI,TailType,Yes it had fur
+VULVU,TailType,Yes it had fur

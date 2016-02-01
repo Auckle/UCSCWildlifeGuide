@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UCSC Wildlife Guide</string>
+    <string name="title_activity_display_mammal_key">Mammals</string>
+    <string name="title_activity_display_amphibian_key">Amphibians</string>
+    <string name="title_activity_display_reptile_key">Reptiles</string>
+    <string name="title_activity_animal">Animals</string>
+    <string name="title_activity_plant">Plants</string>
+    <string name="title_activity_animal_summary"> </string>
+    <string name="title_activity_app_information"> </string>
+
+
+    <string name="company_name">Point 3 App Engineering</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="main_menu_title">University of California Santa Cruz Wildlife Guide</string>
+    <string name="button_mammal_key">It had fur</string>
+    <string name="button_amphibian_key">It had smooth or wet skin</string>
+    <string name="button_reptile_key">It has scales</string>
+    <string name="app_info">\u2261</string>
+
+
+
+    <string name="mammal_key_title">Identification Key for Mammals on UCSC Campus</string>
+    <string name="app_information_title">About the University of California Santa Cruz Wildlife Guide\n\n</string>
+    <string name="app_information">		This application was commissioned by Gage Dayton and Alex Jones for the University of California, Santa Cruz Campus Natural Reserve using funding from the Save the Redwoods League Education Grants Program, http://www.savetheredwoods.org/.\n\n		The University of California, Santa Cruz Campus Natural Reserve (UCSC CNR) is unique within the University of California system and arguably represents the most diverse and expansive campus reserve within all of California.  Indeed, steep redwood ravines, flowering azaleas along forested springs, sweeping ocean views, and stalking bobcats among coastal prairie grasses are not typical attributes of a college campus.  It is also atypical to find a college campus with over 400 acres designated as a natural reserve set aside for teaching and research.  The acknowledged need for such a teaching and research resource on the UCSC campus stems back to Chancellor Dean McHenry before the campus officially opened its doors.  In early visionary and programmatic planning endeavors, UC leaders realized the unique natural resources that the UCSC campus housed and began integrating the natural landscape into infrastructure and facility plans in a manner that explicitly supported education and research in natural and environmental sciences.  UCSC is fortunate to possess the diverse natural features befitting an on-campus natural reserve that in turn provide important and unique teaching and research resources for our campus. The CNR serves as an outdoor classroom and living laboratory that provides a vital link between ideas discussed within traditional classrooms and their actual counterparts in the natural world.  Each year, the thousands of students engaged in CNR activities such as internships, student and faculty research projects, class field trips, and volunteer opportunities are profoundly impacted professionally and personally. For more information, please see http://ucsantacruz.ucnrs.org/ or contact CNR staff at (831) 459-4971.\n\n		Special thanks go out to Gage Dayton and Alex Jones for commissioning the project, to the Save the Redwoods League for funding it, as well as to Gary Nafis, Michale Bolte, Greg Klein, and the many contributors to wikipedia, wikimedia, and flickr for the use of their photographs.\n\nDeveloper: Julia Larson at Point 3 App Engineering</string>
+    <string name="image_description">This should be an image of the animal</string>
+
+    <string name="question_prompt">Options</string>
+    <string name="clear_form">Clear form</string>
+    <string name="get_results">Get Results</string>
+    <string name="possible_animal_title">Animals that match this description</string>
+    <string name="key_title">Describe the Animal</string>
+
+
+    <string name="possible_animal_title_several">Possible Animals</string>
+    <string name="R.string.possible_animal_title_one">Possible Animal</string>
+    <string name="R.string.possible_animal_title_none">No Animals</string>
+
+</resources>

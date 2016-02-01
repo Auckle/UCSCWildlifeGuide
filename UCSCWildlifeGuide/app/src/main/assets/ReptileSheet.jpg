@@ -1,0 +1,344 @@
+UTAST,VentralColor,Tan
+UTAST,BodyShape,Flattened
+SCEOC,BodyShape,Flattened
+PHRBL,BodyShape,Flattened
+THASI,BodyShape,Round or Tubular
+THAEL,BodyShape,Round or Tubular
+THAAT,BodyShape,Round or Tubular
+PITCA,BodyShape,Round or Tubular
+COLLA,BodyShape,Round or Tubular
+LAMZO,BodyShape,Round or Tubular
+LAMGE,BodyShape,Round or Tubular
+DIAPU,BodyShape,Round or Tubular
+CROOR,BodyShape,Round or Tubular
+CONLO,BodyShape,Round or Tubular
+COLCO,BodyShape,Round or Tubular
+CHABO,BodyShape,Round or Tubular
+PLESK,BodyShape,Round or Tubular
+ELGMU,BodyShape,Round or Tubular
+ELGCO,BodyShape,Round or Tubular
+THASI,DorsalColor,Black
+THAEL,DorsalColor,Black
+THAAT,DorsalColor,Black
+COLLA,DorsalColor,Black
+LAMZO,DorsalColor,Black
+LAMGE,DorsalColor,Black
+DIAPU,DorsalColor,Black
+UTAST,DorsalColor,Black
+ELGCO,DorsalColor,Blue
+THASI,DorsalColor,Brown
+THAEL,DorsalColor,Brown
+THAAT,DorsalColor,Brown
+PITCA,DorsalColor,Brown
+COLLA,DorsalColor,Brown
+LAMGE,DorsalColor,Brown
+DIAPU,DorsalColor,Brown
+CROOR,DorsalColor,Brown
+CONLO,DorsalColor,Brown
+COLCO,DorsalColor,Brown
+CHABO,DorsalColor,Brown
+UTAST,DorsalColor,Brown
+SCEOC,DorsalColor,Brown
+PLESK,DorsalColor,Brown
+PHRBL,DorsalColor,Brown
+ELGMU,DorsalColor,Brown
+ELGCO,DorsalColor,Brown
+THASI,DorsalColor,Cream/white
+COLLA,DorsalColor,Cream/white
+LAMZO,DorsalColor,Cream/white
+CROOR,DorsalColor,Cream/white
+THASI,DorsalColor,Gray
+THAEL,DorsalColor,Gray
+THAAT,DorsalColor,Gray
+DIAPU,DorsalColor,Gray
+CROOR,DorsalColor,Gray
+CONLO,DorsalColor,Gray
+COLCO,DorsalColor,Gray
+CHABO,DorsalColor,Gray
+UTAST,DorsalColor,Gray
+SCEOC,DorsalColor,Gray
+PLESK,DorsalColor,Gray
+PHRBL,DorsalColor,Gray
+ELGMU,DorsalColor,Gray
+ELGCO,DorsalColor,Gray
+ELGCO,DorsalColor,Green/olive
+COLLA,DorsalColor,Yellow
+LAMZO,DorsalColor,Yellow
+CROOR,DorsalColor,Green/olive
+COLCO,DorsalColor,Green/olive
+CHABO,DorsalColor,Green/olive
+ELGCO,DorsalColor,Green/olive
+THASI,DorsalColor,Orange
+THAAT,DorsalColor,Orange
+THASI,DorsalColor,Red
+THAEL,DorsalColor,Red
+LAMZO,DorsalColor,Red
+CROOR,DorsalColor,Red
+CHABO,DorsalColor,Red
+PLESK,DorsalColor,Red
+PHRBL,DorsalColor,Red
+ELGMU,DorsalColor,Red
+PITCA,DorsalColor,Tan
+CROOR,DorsalColor,Tan
+COLCO,DorsalColor,Tan
+CHABO,DorsalColor,Tan
+SCEOC,DorsalColor,Tan
+ELGCO,DorsalColor,Tan
+THASI,DorsalColor,Cream/white
+LAMZO,DorsalColor,Cream/white
+LAMZO,DorsalColor,Cream/white
+THASI,DorsalColor,Yellow
+THAEL,DorsalColor,Yellow
+THAAT,DorsalColor,Yellow
+PITCA,DorsalColor,Yellow
+PHRBL,DorsalColor,Yellow
+ELGMU,DorsalColor,Yellow
+THAEL,DorsalPattern,Blotched
+THAAT,DorsalPattern,Blotched
+LAMGE,DorsalPattern,Stripes running from head to tail
+UTAST,DorsalPattern,Distinct stripes across body
+SCEOC,DorsalPattern,Distinct stripes across body
+ELGMU,DorsalPattern,Distinct stripes across body
+ELGCO,DorsalPattern,Distinct stripes across body
+UTAST,DorsalPattern,Distinct dark blotch behind front limbs
+CROOR,DorsalPattern,Blotched
+UTAST,DorsalPattern,Blotched
+SCEOC,DorsalPattern,Blotched
+PHRBL,DorsalPattern,Blotched
+ELGCO,DorsalPattern,Blotched
+PITCA,DorsalPattern,Large regular shaped blotches
+CROOR,DorsalPattern,Large regular shaped blotches
+COLCO,DorsalPattern,Large regular shaped blotches
+THAEL,DorsalPattern,Stripes running from head to tail
+COLLA,DorsalPattern,Stripes running from head to tail
+CONLO,DorsalPattern,Stripes running from head to tail
+THASI,DorsalPattern,Stripes running from head to tail low on sides
+ELGCO,DorsalPattern,Non-distinct stripes across body
+LAMZO,DorsalPattern,Ringed
+DIAPU,DorsalPattern,Single neck band
+THASI,DorsalPattern,Solid
+THAAT,DorsalPattern,Solid
+COLCO,DorsalPattern,Solid
+COLCO,DorsalPattern,Solid
+CHABO,DorsalPattern,Solid
+ELGCO,DorsalPattern,Solid
+UTAST,DorsalPattern,Stripes running from head to tail
+PLESK,DorsalPattern,Stripes running from head to tail
+THASI,DorsalPattern,Short vertical stripes on sides
+THASI,DorsalPattern,Single stripe along the center of the back
+THAEL,DorsalPattern,Single stripe along the center of the back
+THAAT,DorsalPattern,Single stripe along the center of the back
+PITCA,DorsalPattern,Single stripe along the center of the back
+PLESK,DorsalPattern,Single stripe along the center of the back
+ELGCO,DorsalPattern,Single stripe along the center of the back
+THASI,ContrastLine,Yes it was distinct
+THAEL,ContrastLine,Yes it was distinct
+COLLA,ContrastLine,Yes it was distinct
+DIAPU,ContrastLine,Yes it was distinct
+COLCO,ContrastLine,Yes it was distinct
+CHABO,ContrastLine,Yes it was distinct
+SCEOC,ContrastLine,Yes it was distinct
+PLESK,ContrastLine,Yes it was distinct
+ELGMU,ContrastLine,Yes it was distinct
+ELGCO,ContrastLine,Yes it was distinct
+THASI,ContrastLine,No it was not distinct
+THAEL,ContrastLine,No it was not distinct
+THAAT,ContrastLine,No it was not distinct
+PITCA,ContrastLine,No it was not distinct
+LAMZO,ContrastLine,No it was not distinct
+LAMGE,ContrastLine,No it was not distinct
+CROOR,ContrastLine,No it was not distinct
+CONLO,ContrastLine,No it was not distinct
+COLCO,ContrastLine,No it was not distinct
+CHABO,ContrastLine,No it was not distinct
+UTAST,ContrastLine,No it was not distinct
+SCEOC,ContrastLine,No it was not distinct
+PLESK,ContrastLine,No it was not distinct
+PHRBL,ContrastLine,No it was not distinct
+THASI,EyeColor,Dark
+THAEL,EyeColor,Dark
+THAAT,EyeColor,Dark
+PITCA,EyeColor,Dark
+COLLA,EyeColor,Dark
+LAMZO,EyeColor,Dark
+LAMGE,EyeColor,Dark
+DIAPU,EyeColor,Dark
+CROOR,EyeColor,Dark
+CONLO,EyeColor,Dark
+COLCO,EyeColor,Dark
+CHABO,EyeColor,Dark
+UTAST,EyeColor,Dark
+PLESK,EyeColor,Dark
+PHRBL,EyeColor,Dark
+ELGCO,EyeColor,Dark
+CROOR,EyeColor,Gold
+CHABO,EyeColor,Gold
+SCEOC,EyeColor,Gold
+LAMGE,EyeColor,Gray
+CHABO,EyeColor,Gray
+ELGMU,EyeColor,Light-yellow
+ELGMU,EyeColor,Dark
+ELGMU,EyeColor,Gold
+UTAST,Legs,Yes
+SCEOC,Legs,Yes
+PLESK,Legs,Yes
+PHRBL,Legs,Yes
+ELGMU,Legs,Yes
+ELGCO,Legs,Yes
+THASI,Legs,No
+THAEL,Legs,No
+THAAT,Legs,No
+PITCA,Legs,No
+COLLA,Legs,No
+LAMZO,Legs,No
+LAMGE,Legs,No
+DIAPU,Legs,No
+CROOR,Legs,No
+CONLO,Legs,No
+COLCO,Legs,No
+CHABO,Legs,No
+PHRBL,Head,Horned
+LAMZO,Head,It was a snake and its head was the same width its neck
+LAMGE,Head,It was a snake and its head was the same width its neck
+DIAPU,Head,It was a snake and its head was the same width its neck
+CONLO,Head,It was a snake and its head was the same width its neck
+COLCO,Head,It was a snake and its head was the same width its neck
+CHABO,Head,It was a snake and its head was the same width its neck
+UTAST,Head,It was a lizard and its head was shovel shaped
+SCEOC,Head,It was a lizard and its head was shovel shaped
+THASI,Head,It was a snake and its head was slightly wider than its neck
+THAEL,Head,It was a snake and its head was slightly wider than its neck
+THAAT,Head,It was a snake and its head was slightly wider than its neck
+PITCA,Head,It was a snake and its head was slightly wider than its neck
+COLLA,Head,It was a snake and its head was slightly wider than its neck
+LAMGE,Head,It was a snake and its head was slightly wider than its neck
+DIAPU,Head,It was a snake and its head was slightly wider than its neck
+CONLO,Head,It was a snake and its head was slightly wider than its neck
+PLESK,Head,It was a lizard and its head was a triangle shape
+ELGMU,Head,It was a lizard and its head was a triangle shape
+ELGCO,Head,It was a lizard and its head was a triangle shape
+CROOR,Head,It was a snake and its head was much wider than its neck
+UTAST,LegPattern,Blotched
+SCEOC,LegPattern,Blotched
+PLESK,LegPattern,Blotched
+PHRBL,LegPattern,Blotched
+ELGCO,LegPattern,Blotched
+UTAST,LegPattern,Banded
+SCEOC,LegPattern,Banded
+ELGMU,LegPattern,Banded
+ELGCO,LegPattern,Banded
+PLESK,LegPattern,Solid
+PHRBL,LegPattern,Solid
+ELGCO,LegPattern,Solid
+THASI,LegPattern,It had no legs
+THAEL,LegPattern,It had no legs
+THAAT,LegPattern,It had no legs
+PITCA,LegPattern,It had no legs
+COLLA,LegPattern,It had no legs
+LAMZO,LegPattern,It had no legs
+LAMGE,LegPattern,It had no legs
+DIAPU,LegPattern,It had no legs
+CROOR,LegPattern,It had no legs
+CONLO,LegPattern,It had no legs
+COLCO,LegPattern,It had no legs
+CHABO,LegPattern,It had no legs
+THASI,Scales,Keeled
+THAEL,Scales,Keeled
+THAAT,Scales,Keeled
+PITCA,Scales,Keeled
+CROOR,Scales,Keeled
+SCEOC,Scales,Keeled
+ELGMU,Scales,Keeled
+ELGCO,Scales,Keeled
+PHRBL,Scales,Pointy
+COLLA,Scales,Smooth
+LAMZO,Scales,Smooth
+LAMGE,Scales,Smooth
+DIAPU,Scales,Smooth
+CONLO,Scales,Smooth
+COLCO,Scales,Smooth
+CHABO,Scales,Smooth
+UTAST,Scales,Smooth
+PLESK,Scales,Smooth
+PHRBL,VentralColor,Tan
+ELGCO,VentralColor,Tan
+LAMZO,VentralColor,Black
+LAMGE,VentralColor,Black
+THASI,VentralColor,Blue
+THAEL,VentralColor,Blue
+THAAT,VentralColor,Blue
+SCEOC,VentralColor,Blue
+LAMGE,VentralColor,Brown
+CROOR,VentralColor,Brown
+CHABO,VentralColor,Brown
+PITCA,VentralColor,Cream/white
+COLLA,VentralColor,Cream/white
+LAMZO,VentralColor,Cream/white
+CROOR,VentralColor,Cream/white
+COLCO,VentralColor,Cream/white
+CHABO,VentralColor,Cream/white
+UTAST,VentralColor,Cream/white
+SCEOC,VentralColor,Cream/white
+PLESK,VentralColor,Cream/white
+PHRBL,VentralColor,Cream/white
+ELGCO,VentralColor,Cream/white
+CONLO,VentralColor,Cream/white
+CONLO,VentralColor,Black
+CROOR,VentralColor,Gray
+ELGMU,VentralColor,Gray
+ELGCO,VentralColor,Gray
+THAAT,VentralColor,Green/olive
+THASI,VentralColor,Gray
+THAEL,VentralColor,Gray
+LAMZO,VentralColor,Yellow
+DIAPU,VentralColor,Orange
+THAAT,VentralColor,Pink
+THAEL,VentralColor,Red
+LAMZO,VentralColor,Red
+DIAPU,VentralColor,Red
+CROOR,VentralColor,Tan
+CHABO,VentralColor,Tan
+LAMZO,VentralColor,Cream/white
+THAEL,VentralColor,Yellow
+THAAT,VentralColor,Yellow
+PITCA,VentralColor,Yellow
+COLLA,VentralColor,Yellow
+DIAPU,VentralColor,Yellow
+COLCO,VentralColor,Yellow
+PHRBL,VentralColor,Yellow
+UTAST,Summary,UTAST.jpg
+SCEOC,Summary,SCEOC.jpg
+PLESK,Summary,PLESK.jpg
+PHRBL,Summary,PHRBL.jpg
+ELGMU,Summary,ELGMU.jpg
+ELGCO,Summary,ELGCO.jpg
+THASI,Summary,THASI.jpg
+THAEL,Summary,THAEL.jpg
+THAAT,Summary,THAAT.jpg
+PITCA,Summary,PITCA.jpg
+COLLA,Summary,COLLA.jpg
+LAMZO,Summary,LAMZO.jpg
+LAMGE,Summary,LAMGE.jpg
+DIAPU,Summary,DIAPU.jpg
+CROOR,Summary,CROOR.jpg
+CONLO,Summary,CONLO.jpg
+COLCO,Summary,COLCO.jpg
+CHABO,Summary,CHABO.jpg
+UTAST,CommonName,Western Side-blotched Lizard
+CHABO,CommonName,Northern Rubber Boa
+COLCO,CommonName,Western Yellow-bellied Racer 
+COLLA,CommonName,California Striped Racer
+CONLO,CommonName,Forest Sharp-tailed Snake
+CROOR,CommonName,Northern Pacific Rattlesnake
+DIAPU,CommonName,Ring-necked Snake
+ELGCO,CommonName,San Francisco Alligator Lizard
+ELGMU,CommonName,California Alligator Lizard
+LAMGE,CommonName,Common Kingsnake
+LAMZO,CommonName,California Mountain Kingsnake
+PHRBL,CommonName,Coast Horned Lizard
+PITCA,CommonName,Pacific Gopher Snake
+PLESK,CommonName,Skilton's Skink
+SCEOC,CommonName,Coast Range Fence Lizard
+THAAT,CommonName,Santa Cruz Gartersnake
+THAEL,CommonName,Coast Gartersnake
+THASI,CommonName,Valley Gartersnake

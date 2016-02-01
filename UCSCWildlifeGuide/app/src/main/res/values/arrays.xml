@@ -1,0 +1,553 @@
+<resources>
+
+    <string-array name="mammal_questions">
+        <item>How big was the animal?</item>
+        <item>What group would you categorize the animal into?</item>
+        <item>How long was its tail in comparison to its body?</item>
+        <item>Did it have a furry tail?</item>
+        <item>What color was its tail?</item>
+        <item>What pattern did it have on its tail?</item>
+        <item>What color was its back?</item>
+        <item>What pattern did it have on its back?</item>
+        <item>What color was its stomach?</item>
+        <item>How many toes or hoof clefts did it have on its front feet?</item>
+        <item>How many toes or hoof clefts did it have on its back feet?</item>
+    </string-array>
+
+    <string-array name="mammal_trait_names">
+        <item>Size</item>
+        <item>Habit</item>
+        <item>TailLength</item>
+        <item>TailType</item>
+        <item>TailColor</item>
+        <item>TailPattern</item>
+        <item>DorsalColor</item>
+        <item>DorsalPattern</item>
+        <item>VentralColor</item>
+        <item>BackToes</item>
+        <item>FrontToes</item>
+    </string-array>
+
+
+    <string-array name="mammal_sizeResponses">
+        <item> </item>
+        <item>Larger than a house cat</item>
+        <item>About the same size as a house cat</item>
+        <item>Smaller than a house cat</item>
+        <item>About the size of a mouse</item>
+        <item>Unknown"</item>
+    </string-array>
+
+    <string-array name="mammal_group">
+        <item> </item>
+        <item>Carnivore</item>
+        <item>Rodent</item>
+        <item>Marsupial</item>
+        <item>Insectivore (Easily mistaken for a rodent)</item>
+        <item>Artiodactyla (Hoofed animal)</item>
+        <item>Lagomorph (Rabbit)</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+    <string-array name="mammal_tailLength">
+        <item> </item>
+        <item>Longer than body</item>
+        <item>About the same length as body</item>
+        <item>Shorter than body</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="mammal_furYesNo">
+        <item> </item>
+        <item>Yes it had fur</item>
+        <item>No it did not have fur</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+    <string-array name="mammal_tailColor">
+        <item> </item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>White</item>
+        <item>Gray</item>
+        <item>Tan</item>
+        <item>Pink</item>
+        <item>Red</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+    <string-array name="mammal_tailPattern">
+        <item> </item>
+        <item>Single black stripe</item>
+        <item>Single white stripe</item>
+        <item>Black tip</item>
+        <item>White tip</item>
+        <item>Red tipped fur</item>
+        <item>White tipped fur</item>
+        <item>Blotchy</item>
+        <item>Paler below</item>
+        <item>White below</item>
+        <item>Ringed</item>
+        <item>Solid or no pattern</item>
+        <item>Tufted tip</item>
+        <item>Spotted</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="mammal_backColor">
+        <item> </item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>White</item>
+        <item>Gray</item>
+        <item>Tan</item>
+        <item>Yellow</item>
+        <item>Red</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="mammal_backPattern">
+        <item> </item>
+        <item>One solid stripe on back</item>
+        <item>Two solid stripes on back</item>
+        <item>Two broken stripes on back</item>
+        <item>Four broken stripes on back</item>
+        <item>Many stripes</item>
+        <item>Stripes along sides</item>
+        <item>Blotchy</item>
+        <item>Spotted</item>
+        <item>Solid or no pattern</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="mammal_stomachColor">
+        <item> </item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Light brown</item>
+        <item>Gray</item>
+        <item>Light gray</item>
+        <item>White</item>
+        <item>Cream</item>
+        <item>Tan</item>
+        <item>Light tan</item>
+        <item>Orange</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+    <string-array name="mammal_backToes">
+        <item> </item>
+        <item>5</item>
+        <item>4</item>
+        <item>2</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="mammal_frontToes">
+        <item> </item>
+        <item>5</item>
+        <item>4</item>
+        <item>2</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="amphibian_listOfQuestions">
+        <item>Was it a salamander or a frog or toad?</item>
+        <item>Did it have a tail?</item>
+        <item>What color was its back?</item>
+        <item>What pattern did it have on its back?</item>
+        <item>What color was its stomach?</item>
+        <item>Was its skin rough or smooth?</item>
+        <item>Was there a contrast line where the back color of the animal met the stomach color?</item>
+        <item>Was there a stripe of color running along the spine?</item>
+        <item>Describe the eye.</item>
+        <item>What pattern did it have on its legs?</item>
+        <item>Were its limbs tiny compared to its body?</item>
+        <item>If it was a salamander how many toes did it have on its back feet?</item>
+        <item>If it was a salamander did it look like it had a rib cage (costal grooves)?</item>
+        <item>If it was a frog or toad did it have toes pads?</item>
+        <item>If it was a frog or toad did it have, behind both eyes, a ridge of skin that extends along its back that either curves down behind the ear drum or continues straight along its back (dorsal lateral fold)?</item>
+        <item>If it was a frog or toad was there a ridge above and behind the ear drum behind the eye (an ear drum fold)?</item>
+        <item>If it was a frog or toad was there a round or oval rough patch behind the eye (a parotoid gland)?</item>
+    </string-array>
+
+
+    <string-array name="amphibian_trait_names">
+        <item>Habit</item>
+        <item>Tail</item>
+        <item>DorsalColor</item>
+        <item>DorsalPattern</item>
+        <item>VentralColor</item>
+        <item>SkinTexture</item>
+        <item>DorsalVentralContrastLine</item>
+        <item>DorsalStripe</item>
+        <item>EyeColor</item>
+        <item>LegPattern</item>
+        <item>LimbSize</item>
+        <item>BackToes</item>
+        <item>CostalGrooves</item>
+        <item>ToePads</item>
+        <item>DorsalLateralFold</item>
+        <item>EarDrumFold</item>
+        <item>ParotoidGland</item>
+    </string-array>
+
+
+    <string-array name="amphibian_habitResponses">
+        <item> </item>
+        <item>Salamander</item>
+        <item>Frog or toad</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+    <string-array name="amphibian_tailResponses">
+        <item> </item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+    <string-array name="amphibian_backColorResponses">
+        <item> </item>
+        <item>Black</item>
+        <item>Gray</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Red</item>
+        <item>Tan</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+    <string-array name="amphibian_backPatternResponses">
+        <item> </item>
+        <item>Marbled</item>
+        <item>Mottled</item>
+        <item>Spotted</item>
+        <item>Solid</item>
+        <item>Unknown"</item>
+    </string-array>
+
+
+    <string-array name="amphibian_stomachPatternResponses">
+        <item> </item>
+        <item>Black</item>
+        <item>Gray</item>
+        <item>White</item>
+        <item>Brown</item>
+        <item>Orange</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Unknown</item>
+    </string-array>
+
+    <string-array name="amphibian_skinResponses">
+        <item> </item>
+        <item>Rough</item>
+        <item>Smooth</item>
+        <item>Unknown</item>
+    </string-array>
+
+    <string-array name="amphibian_contrastResponses">
+        <item> </item>
+        <item>No, there was no contrast line</item>
+        <item>Yes, there was as distinct contrast line</item>
+        <item>Yes, but there was only an indistinct contrast line</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="amphibian_stripeResponses">
+        <item> </item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="amphibian_eyeResponses">
+        <item> </item>
+        <item>Black eyes</item>
+        <item>Black eyes with dark lower eye lids</item>
+        <item>Black eyes with light lower eye lids</item>
+        <item>Black eyes with yellow spots</item>
+        <item>Gold eyes</item>
+        <item>Gold eyes inside a black stripe of skin</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="amphibian_legResponses">
+        <item> </item>
+        <item>Marbled</item>
+        <item>Mottled</item>
+        <item>Banded</item>
+        <item>Solid</item>
+        <item>Spotted</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="amphibian_limbSizeResponses">
+        <item> </item>
+        <item>Yes, it had tiny limbs</item>
+        <item>No, it had proportional limbs</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="amphibian_backToeResponses">
+        <item> </item>
+        <item>Five</item>
+        <item>Four</item>
+        <item>It was a frog or toad</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="amphibian_costalGrooveResponses">
+        <item> </item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>It was a frog or toad</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="amphibian_toePadResponses">
+        <item> </item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>It was a salamander</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="amphibian_dLFResponses">
+        <item> </item>
+        <item>Yes</item>
+        <item>Yes but indistinct</item>
+        <item>No</item>
+        <item>It was a salamander</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="amphibian_foldResponses">
+        <item> </item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>It was a salamander</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="amphibian_glandResponses">
+        <item> </item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>It was a salamander</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+
+    <string-array name="reptile_listOfQuestions">
+        <item>Did it have legs?</item>
+        <item>What color was its back?</item>
+        <item>What pattern did it have on its back?</item>
+        <item>What color was its stomach?</item>
+        <item>Was there a distinct contrast line where the back color of the animal met the stomach color?</item>
+        <item>If it has legs what pattern did it have on its legs?</item>
+        <item>What word best describes its scales?</item>
+        <item>Was the animals body more flattened or more rounded in shape?</item>
+        <item>What color were its eyes?</item>
+        <item>Describe the head more.</item>
+    </string-array>
+
+    <string-array name="reptile_traits">
+        <item>Legs</item>
+        <item>DorsalColor</item>
+        <item>DorsalPattern</item>
+        <item>VentralColor</item>
+        <item>ContrastLine</item>
+        <item>LegPattern</item>
+        <item>Scales</item>
+        <item>BodyShape</item>
+        <item>EyeColor</item>
+        <item>Head</item>
+    </string-array>
+
+    <string-array name="reptile_legResponses">
+        <item> </item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+    <string-array name="reptile_dorsalColor">
+        <item> </item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Tan</item>
+        <item>Cream/white</item>
+        <item>Gray</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green/olive</item>
+        <item>Blue</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="reptile_dorsalPattern">
+        <item> </item>
+        <item>Blotched</item>
+        <item>Large regular shaped blotches</item>
+        <item>Stripes running from head to tail</item>
+        <item>Stripes running from head to tail low on sides</item>
+        <item>Distinct dark blotch behind front limbs</item>
+        <item>Distinct stripes across body</item>
+        <item>Non-distinct stripes across body</item>
+        <item>Single stripe along the center of the back</item>
+        <item>Ringed</item>
+        <item>Single neck band</item>
+        <item>Solid</item>
+        <item>Short vertical stripes on sides</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+    <string-array name="reptile_ventralColor">
+        <item> </item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Tan</item>
+        <item>Cream/white</item>
+        <item>Gray</item>
+        <item>Red</item>
+        <item>Pink</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green/olive</item>
+        <item>Blue</item>
+        <item>Unknown</item>
+    </string-array>
+
+    <string-array name="reptile_contrastLine">
+        <item> </item>
+        <item>Yes it was distinct</item>
+        <item>No it was not distinct</item>
+        <item>Unknown</item>
+    </string-array>
+
+    <string-array name="reptile_legPattern">
+        <item> </item>
+        <item>Blotched</item>
+        <item>Banded</item>
+        <item>Solid</item>
+        <item>It had no legs</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="reptile_scales">
+        <item> </item>
+        <item>Smooth</item>
+        <item>Keeled</item>
+        <item>Pointy</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="reptile_bodyShape">
+        <item> </item>
+        <item>Flattened</item>
+        <item>Round or Tubular</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+    <string-array name="reptile_eyeColor">
+        <item> </item>
+        <item>Dark</item>
+        <item>Gray</item>
+        <item>Gold</item>
+        <item>Light-yellow</item>
+        <item>Unknown</item>
+    </string-array>
+
+    <string-array name="reptile_head">
+        <item> </item>
+        <item>It was a snake and its head was the same width its neck</item>
+        <item>It was a snake and its head was slightly wider than its neck</item>
+        <item>It was a snake and its head was much wider than its neck</item>
+        <item>It was a lizard and its head was shovel shaped</item>
+        <item>It was a lizard and its head was a triangle shape</item>
+        <item>Unknown</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

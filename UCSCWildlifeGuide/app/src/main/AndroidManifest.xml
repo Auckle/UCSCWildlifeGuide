@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="reserve.natural.wildlifeiducsc">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/MyMaterialTheme">
+
+        <activity
+            android:name=".ActivityMain"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ActivityAppInformation"
+            android:label="@string/title_activity_app_information"/>
+
+        <activity
+            android:name=".ActivityPlant"
+            android:label="@string/title_activity_plant"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".ActivityAnimal"
+            android:label="@string/title_activity_animal"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".ActivityDisplayMammalKey"
+            android:label="@string/title_activity_display_mammal_key">
+        </activity>
+
+        <activity
+            android:name=".ActivityDisplayAmphibianKey"
+            android:label="@string/title_activity_display_amphibian_key">
+        </activity>
+
+        <activity
+            android:name=".ActivityDisplayReptileKey"
+            android:label="@string/title_activity_display_reptile_key">
+        </activity>
+
+        <activity
+            android:name=".ActivityAnimalSummary"
+            android:label="@string/title_activity_animal_summary">
+        </activity>
+
+    </application>
+
+</manifest>

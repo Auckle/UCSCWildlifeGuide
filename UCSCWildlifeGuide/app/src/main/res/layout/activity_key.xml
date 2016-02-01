@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearlayoutall"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="20dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="20dp"
+    tools:context=".ActivityDisplayMammalKey" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/linearlayoutleftmain"
+        android:layout_weight="2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".ActivityDisplayMammalKey" >
+
+        
+			<TextView
+			    android:id="@+id/keytitle"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:gravity="center"
+			    android:text="@string/key_title"
+			    android:textAppearance="?android:attr/textAppearanceLarge" />
+			    
+			<Button
+			    android:paddingTop="10dp"
+			    android:paddingBottom="10dp"
+			    android:id="@+id/clearbutton"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:onClick="clearForm"
+			    android:text="@string/clear_form" />
+
+		<ScrollView
+		    xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingRight="10dp"
+		    android:paddingTop="10dp" >
+		    
+			<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			     xmlns:tools="http://schemas.android.com/tools" 
+				 android:id="@+id/linearlayoutleft"
+				 android:layout_width="match_parent"
+				 android:layout_height="wrap_content"
+				 android:orientation="vertical"
+				 tools:context=".ActivityDisplayMammalKey" >
+		        
+
+			</LinearLayout>
+	
+		</ScrollView>
+		
+	</LinearLayout>
+		
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/linearlayoutrightmain"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".ActivityDisplayMammalKey" >
+		
+		<TextView
+		    android:id="@+id/possibleanimaltitle"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:gravity="center"
+		    android:paddingBottom="10dp"
+		    android:textAppearance="?android:attr/textAppearanceLarge" />
+	
+		<ScrollView
+		    xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:paddingLeft="10dp" >
+		
+				<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+					android:id="@+id/linearlayoutright"
+					xmlns:tools="http://schemas.android.com/tools"
+			        android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:orientation="vertical"
+					tools:context=".ActivityDisplayMammalKey" >
+						
+				</LinearLayout>
+		    
+		</ScrollView>
+	
+	</LinearLayout>
+	
+</LinearLayout>  

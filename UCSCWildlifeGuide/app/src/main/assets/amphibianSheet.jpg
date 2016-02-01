@@ -1,0 +1,316 @@
+ANEFL,BackToes,Five
+ANABO,BackToes,It was a frog or toad
+ANABO,CommonName,California Toad
+ANABO,CostalGrooves,It was a frog or toad
+ANABO,DorsalColor,Brown
+ANABO,DorsalColor,Green
+ANABO,DorsalColor,Tan
+ANABO,DorsalLateralFold,No
+ANABO,DorsalPattern,Marbled
+ANABO,DorsalPattern,Spotted
+ANABO,DorsalStripe,Yes
+ANABO,DorsalVentralContrastLine,No
+ANABO,DorsalVentralContrastLine,Yes there was as distinct contrast line
+ANABO,EarDrumFold,No
+ANABO,EyeColor,Gold eyes
+ANABO,Habit,Frog or toad
+ANABO,LegPattern,Banded
+ANABO,LegPattern,Marbled
+ANABO,LegPattern,Mottled
+ANABO,LimbSize,No
+ANABO,ParotoidGland,Yes
+ANABO,SkinTexture,Rough
+ANABO,Summary,ANABO.jpg
+ANABO,Tail,No
+ANABO,ToePads,No
+ANABO,VentralColor,White
+ANEFL,CommonName,Black Salamander
+ANEFL,CostalGrooves,Yes
+ANEFL,DorsalColor,Black
+ANEFL,DorsalColor,Gray
+ANEFL,DorsalLateralFold,It was a salamander
+ANEFL,DorsalPattern,Solid
+ANEFL,DorsalPattern,Spotted
+ANEFL,DorsalStripe,No
+ANEFL,DorsalVentralContrastLine,No there was no contrast line
+ANEFL,DorsalVentralContrastLine,No there was no contrast line
+ANEFL,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+ANEFL,EarDrumFold,It was a salamander but there was only an indistinct contrast line
+ANEFL,EyeColor,Black eyes
+ANEFL,Habit,Salamander
+ANEFL,LegPattern,Solid
+ANEFL,LimbSize,No it had proportional limbs
+ANEFL,ParotoidGland,It was a salamander it had tiny limbs
+ANEFL,SkinTexture,Smooth
+ANEFL,Summary,ANEFL.jpg
+ANEFL,Tail,Yes
+ANEFL,ToePads,It was a salamander
+ANEFL,VentralColor,Black
+ANEFL,VentralColor,Gray
+ANELU,BackToes,Five
+ANELU,CommonName,Arboreal Salamander
+ANELU,CostalGrooves,Yes
+ANELU,DorsalColor,Brown
+ANELU,DorsalLateralFold,It was a salamander
+ANELU,DorsalPattern,Solid
+ANELU,DorsalPattern,Spotted
+ANELU,DorsalStripe,No
+ANELU,DorsalVentralContrastLine,No there was no contrast line
+ANELU,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+ANELU,EarDrumFold,It was a salamander
+ANELU,EyeColor,Black eyes
+ANELU,Habit,Salamander
+ANELU,LegPattern,Solid
+ANELU,LimbSize,No it had proportional limbs
+ANELU,ParotoidGland,It was a salamander
+ANELU,SkinTexture,Smooth
+ANELU,Summary,ANELU.jpg
+ANELU,Tail,Yes
+ANELU,ToePads,It was a salamander
+ANELU,VentralColor,White
+BATAT,BackToes,Four
+BATAT,CommonName,California Slender Salamander
+BATAT,CostalGrooves,Yes
+BATAT,DorsalColor,Black
+BATAT,DorsalColor,Gray
+BATAT,DorsalColor,Brown
+BATAT,DorsalLateralFold,It was a salamander
+BATAT,DorsalPattern,Solid
+BATAT,DorsalPattern,Spotted
+BATAT,DorsalStripe,Yes
+BATAT,DorsalStripe,No
+BATAT,DorsalVentralContrastLine,No there was no contrast line
+BATAT,EarDrumFold,It was a salamander
+BATAT,EyeColor,Black eyes
+BATAT,Habit,Salamander
+BATAT,LegPattern,Solid
+BATAT,LimbSize,Yes it had proportional limbs
+BATAT,ParotoidGland,It was a salamander
+BATAT,SkinTexture,Smooth
+BATAT,Summary,BATAT.jpg
+BATAT,Tail,Yes
+BATAT,ToePads,It was a salamander
+BATAT,VentralColor,Black
+BATAT,VentralColor,Gray
+BATAT,VentralColor,Brown
+BATGA,BackToes,Four
+BATGA,CommonName,Gabilan Mountains Slender Salamander
+BATGA,CostalGrooves,Yes
+BATGA,DorsalColor,Black
+BATGA,DorsalColor,Gray
+BATGA,DorsalColor,Brown
+BATGA,DorsalLateralFold,It was a salamander
+BATGA,DorsalPattern,Solid
+BATGA,DorsalPattern,Spotted
+BATGA,DorsalStripe,Yes
+BATGA,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+BATGA,EarDrumFold,It was a salamander
+BATGA,EyeColor,Black eyes
+BATGA,Habit,Salamander
+BATGA,LimbSize,Yes it had tiny limbs
+BATGA,ParotoidGland,It was a salamander
+BATGA,SkinTexture,Smooth
+BATGA,Summary,BATGA.jpg
+BATGA,Tail,Yes
+BATGA,ToePads,It was a salamander
+BATGA,VentralColor,Black
+BATGA,VentralColor,Gray
+BATGA,VentralColor,Brown
+DICEN,BackToes,Five
+DICEN,CommonName,California Giant Salamander
+DICEN,CostalGrooves,No
+DICEN,DorsalColor,Brown
+DICEN,DorsalColor,Orange
+DICEN,DorsalColor,Red
+DICEN,DorsalColor,Tan
+DICEN,DorsalLateralFold,It was a salamander
+DICEN,DorsalPattern,Marbled
+DICEN,DorsalStripe,No
+DICEN,DorsalVentralContrastLine,No there was no contrast line
+DICEN,EarDrumFold,It was a salamander
+DICEN,EyeColor,Black eyes
+DICEN,Habit,Salamander
+DICEN,LegPattern,Marbled
+DICEN,LimbSize,No it had proportional limbs
+DICEN,ParotoidGland,It was a salamander
+DICEN,SkinTexture,Smooth
+DICEN,Summary,DICEN.jpg
+DICEN,Tail,Yes
+DICEN,ToePads,It was a salamander
+DICEN,VentralColor,Brown
+DICEN,VentralColor,Orange
+DICEN,VentralColor,Orange
+DICEN,VentralColor,Red
+ENSES,BackToes,Five
+ENSES,CommonName,Yellow-eyed Ensatina
+ENSES,CostalGrooves,Yes
+ENSES,DorsalColor,Brown
+ENSES,DorsalLateralFold,It was a salamander
+ENSES,DorsalPattern,Solid
+ENSES,DorsalStripe,No
+ENSES,DorsalVentralContrastLine,Yes there was no contrast line
+ENSES,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+ENSES,EarDrumFold,It was a salamander
+ENSES,EyeColor,Black eyes with yellow spots
+ENSES,Habit,Salamander
+ENSES,LegPattern,Solid
+ENSES,LimbSize,No it had proportional limbs
+ENSES,ParotoidGland,It was a salamander
+ENSES,SkinTexture,Smooth
+ENSES,Summary,ENSES.jpg
+ENSES,Tail,Yes
+ENSES,ToePads,It was a salamander
+ENSES,VentralColor,Orange
+LITCA,BackToes,It was a frog or toad
+LITCA,CommonName,American Bullfrog
+LITCA,CostalGrooves,It was a frog or toad
+LITCA,DorsalColor,Brown
+LITCA,DorsalColor,Green
+LITCA,DorsalLateralFold,No
+LITCA,DorsalPattern,Marbled
+LITCA,DorsalPattern,Mottled
+LITCA,DorsalPattern,Spotted
+LITCA,DorsalStripe,No
+LITCA,DorsalVentralContrastLine,No there was no contrast line
+LITCA,EarDrumFold,Yes
+LITCA,EyeColor,Gold eyes
+LITCA,Habit,Frog or toad
+LITCA,LegPattern,Banded
+LITCA,LegPattern,Marbled
+LITCA,LegPattern,Mottled
+LITCA,LegPattern,Solid
+LITCA,LimbSize,No it had proportional limbs
+LITCA,ParotoidGland,No
+LITCA,SkinTexture,Rough
+LITCA,SkinTexture,Smooth
+LITCA,Summary,LITCA.jpg
+LITCA,Tail,No
+LITCA,Tail,No
+LITCA,ToePads,No
+PSESI,BackToes,It was a frog or toad
+PSESI,CommonName,Sierran Treefrog
+PSESI,CostalGrooves,It was a frog or toad
+PSESI,DorsalColor,Brown
+PSESI,DorsalColor,Green
+PSESI,DorsalLateralFold,No
+PSESI,DorsalPattern,Marbled
+PSESI,DorsalPattern,Mottled
+PSESI,DorsalPattern,Solid
+PSESI,DorsalPattern,Spotted
+PSESI,DorsalStripe,No
+PSESI,DorsalVentralContrastLine,No there was no contrast line
+PSESI,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+PSESI,EarDrumFold,No
+PSESI,EyeColor,Gold eyes inside a black stripe of skin
+PSESI,Habit,Frog or toad
+PSESI,LegPattern,Marbled
+PSESI,LegPattern,Mottled
+PSESI,LimbSize,No it had proportional limbs
+PSESI,ParotoidGland,No
+PSESI,SkinTexture,Smooth
+PSESI,Summary,PSESI.jpg
+PSESI,Tail,No
+PSESI,ToePads,Yes
+PSESI,VentralColor,White
+PSESI,VentralColor,Red
+RANAU,BackToes,It was a frog or toad
+RANAU,CommonName,Northern Red-legged Frog
+RANAU,CostalGrooves,It was a frog or toad
+RANAU,DorsalColor,Brown
+RANAU,DorsalColor,Red
+RANAU,DorsalLateralFold,Yes
+RANAU,DorsalPattern,Spotted
+RANAU,DorsalStripe,No
+RANAU,DorsalVentralContrastLine,No there was no contrast line
+RANAU,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+RANAU,EarDrumFold,No
+RANAU,EyeColor,Gold eyes
+RANAU,Habit,Frog or toad
+RANAU,LegPattern,Banded
+RANAU,LimbSize,No it had proportional limbs
+RANAU,ParotoidGland,No
+RANAU,SkinTexture,Rough
+RANAU,SkinTexture,Smooth
+RANAU,Summary,RANAU.jpg
+RANAU,Tail,No
+RANAU,ToePads,No
+RANAU,VentralColor,White
+RANAU,VentralColor,Red
+RANBO,BackToes,It was a frog or toad
+RANBO,CommonName,Foothill Yellow-legged Frog
+RANBO,CostalGrooves,It was a frog or toad
+RANBO,DorsalColor,Black
+RANBO,DorsalColor,Gray
+RANBO,DorsalColor,Brown
+RANBO,DorsalLateralFold,Yes but indistinct
+RANBO,DorsalPattern,Marbled
+RANBO,DorsalPattern,Mottled
+RANBO,DorsalPattern,Solid
+RANBO,DorsalPattern,Spotted
+RANBO,DorsalStripe,No
+RANBO,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+RANBO,EarDrumFold,No
+RANBO,EyeColor,Gold eyes
+RANBO,Habit,Frog or toad
+RANBO,LegPattern,Banded
+RANBO,LegPattern,Mottled
+RANBO,LimbSize,No it had proportional limbs
+RANBO,ParotoidGland,No
+RANBO,SkinTexture,Smooth
+RANBO,Summary,RANBO.jpg
+RANBO,Tail,No
+RANBO,ToePads,No
+RANBO,VentralColor,White
+RANBO,VentralColor,Yellow
+LITCA,VentralColor,White
+TARGR,BackToes,Five
+TARGR,CommonName,Rough-skinned Newt
+TARGR,CostalGrooves,No
+TARGR,DorsalColor,Black
+TARGR,DorsalColor,Gray
+TARGR,DorsalColor,Brown
+TARGR,DorsalColor,Green
+TARGR,DorsalColor,Tan
+TARGR,DorsalLateralFold,It was a salamander
+TARGR,DorsalPattern,Mottled
+TARGR,DorsalStripe,No
+TARGR,DorsalVentralContrastLine,Yes there was as distinct contrast line
+TARGR,EarDrumFold,It was a salamander
+TARGR,EyeColor,Black eyes with dark lower eye lids
+TARGR,Habit,Salamander
+TARGR,LegPattern,Solid
+TARGR,LegPattern,Solid
+TARGR,LimbSize,No it had proportional limbs
+TARGR,ParotoidGland,It was a salamander
+TARGR,SkinTexture,Rough
+TARGR,SkinTexture,Smooth
+TARGR,Summary,TARGR.jpg
+TARGR,Tail,Yes
+TARGR,ToePads,It was a salamander
+TARGR,VentralColor,Orange
+TARGR,VentralColor,Red
+TARGR,VentralColor,Yellow
+TARTO,BackToes,Five
+TARTO,CommonName,California Newt
+TARTO,CostalGrooves,No
+TARTO,DorsalColor,Brown
+TARTO,DorsalColor,Green
+TARTO,DorsalColor,Tan
+TARTO,DorsalLateralFold,It was a salamander
+TARTO,DorsalStripe,No
+TARTO,DorsalVentralContrastLine,Yes but there was only an indistinct contrast line
+TARTO,EarDrumFold,It was a salamander
+TARTO,EyeColor,Black eyes with light lower eye lids
+TARTO,Habit,Salamander
+TARTO,LegPattern,Solid
+TARTO,LegPattern,Solid
+TARTO,LimbSize,No it had proportional limbs
+TARTO,ParotoidGland,It was a salamander
+TARTO,SkinTexture,Rough
+TARTO,SkinTexture,Smooth
+TARTO,Summary,TARTO.jpg
+TARTO,Tail,Yes
+TARTO,ToePads,It was a salamander
+TARTO,VentralColor,Orange
+TARTO,VentralColor,Red
+TARTO,VentralColor,Yellow
